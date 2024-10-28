@@ -11,8 +11,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#KiNG官方优选',
-	'cloudflare.cfgo.cc#KiNG官方优选',
+	'',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
